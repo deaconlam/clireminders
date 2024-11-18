@@ -14,8 +14,8 @@ Deacon Lam (Creator)
 On Linux and macOS, if the executable cannot be opened or appears as garbled text, try:
   
 1. Open a terminal where the file is located
-2. Execute "sudo chmod +x 'Deacon_Project_CLICalculator_Linux'"
-3. Execute "./'Deacon_Project_CLICalculator_Linux'"
+2. Execute "sudo chmod +x 'Deacon_CLIRemindersProject_Linux'"
+3. Execute "./'Deacon_CLIRemindersProject_Linux'"
 
 Note: This method is not tested on macOS, but it is tested and had worked on Linux (Ubuntu).
 # Required Modules For Raw py File
