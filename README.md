@@ -18,3 +18,11 @@ On Linux and macOS, if the executable cannot be opened or appears as garbled tex
 3. Execute "./'Deacon_Project_CLICalculator_Linux'"
 
 Note: This method is not tested on macOS, but it is tested and had worked on Linux (Ubuntu).
+# Required Modules For Raw py File
+1. os
+2. time
+3. datetime
+4. holidays
+5. requests
+6. plyer
+7. platform
