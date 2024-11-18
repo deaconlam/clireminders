@@ -8,7 +8,7 @@ Deacon Lam (Creator)
 2. Deacon_CLIRemindersProject_Windows.exe  
    This version is an executable for Windows operating systems.
 
-3. Deacon_CLIRemindersProject_Linux
+3. Deacon_CLIRemindersProject_Linux  
    This version is an executable for Linux operating systems (including macOS).
 # Common Issues
 On Linux and macOS, if the executable cannot be opened or appears as garbled text, try:
